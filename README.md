@@ -41,6 +41,7 @@ Automatic detection system for AI-generated texts using NLP techniques.
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=mohammadi-hadi&layout=compact&langs_count=8&theme=default"/>
 </a>
 </p>
+
 ## 🏆 Achievements
 - Quickdraw Achievement
 - Pull Shark Achievement
