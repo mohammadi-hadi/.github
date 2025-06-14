@@ -1,5 +1,8 @@
 # Hadi Mohammadi
 ## Data Scientist & ML Engineer | NLP Developer
+<br>
+<img alt="hardwork" src="https://github.com/mohammadi-hadi/.github/blob/3cdbaab46980b359d836e83574d8f9bc7c53bb1c/assets/hardwork.gif" width="500" align="center"/>
+<br>
 
 ## 👨‍💻 About Me
 I am a passionate Data Scientist and Machine Learning Engineer with expertise in Natural Language Processing (NLP). My work focuses on developing innovative solutions using cutting-edge AI technologies.
@@ -30,10 +33,6 @@ Automatic detection system for AI-generated texts using NLP techniques.
 - LinkedIn: [linkedin.com/in/hadimohammadi](https://www.linkedin.com/in/hadimohammadi)
 - Email: your.email@example.com
 
-<br>
-<img alt="hardwork" src="https://github.com/mohammadi-hadi/.github/blob/3cdbaab46980b359d836e83574d8f9bc7c53bb1c/assets/hardwork.gif" width="500" align="center"/>
-<br>
-
 ## 📈 GitHub Stats
 <!-- ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=mohammadi-hadi&show_icons=true&theme=radical) -->
 <p align="center">
@@ -47,7 +46,7 @@ Automatic detection system for AI-generated texts using NLP techniques.
 - Pull Shark Achievement
 
 ---
-⭐️ From [mohammadi-hadi](https://github.com/mohammadi-hadi) 
+<!-- ⭐️ From [mohammadi-hadi](https://github.com/mohammadi-hadi)  -->
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://www.linkedin.com/in/hadimohammadi)
 [![Portfolio](https://img.shields.io/badge/Portfolio-Visit-green)](https://mohammadi-hadi.github.io/)
 [![Email](https://img.shields.io/badge/Email-Contact-red)](mailto:your.email@example.com)
