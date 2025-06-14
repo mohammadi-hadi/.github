@@ -1,10 +1,6 @@
 # Hadi Mohammadi
 ## Data Scientist & ML Engineer | NLP Developer
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://www.linkedin.com/in/hadimohammadi)
-[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-green)](https://mohammadi-hadi.github.io/)
-[![Email](https://img.shields.io/badge/Email-Contact-red)](mailto:your.email@example.com)
-
 ## 👨‍💻 About Me
 I am a passionate Data Scientist and Machine Learning Engineer with expertise in Natural Language Processing (NLP). My work focuses on developing innovative solutions using cutting-edge AI technologies.
 
@@ -52,3 +48,6 @@ Automatic detection system for AI-generated texts using NLP techniques.
 
 ---
 ⭐️ From [mohammadi-hadi](https://github.com/mohammadi-hadi) 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://www.linkedin.com/in/hadimohammadi)
+[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-green)](https://mohammadi-hadi.github.io/)
+[![Email](https://img.shields.io/badge/Email-Contact-red)](mailto:your.email@example.com)
