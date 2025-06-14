@@ -30,8 +30,8 @@ Automatic detection system for AI-generated texts using NLP techniques.
 
 ## 📫 Get in Touch
 - Portfolio: [mohammadi-hadi.github.io](https://mohammadi-hadi.github.io/)
-- LinkedIn: [linkedin.com/in/hadimohammadi](https://www.linkedin.com/in/hadimohammadi)
-- Email: your.email@example.com
+- LinkedIn: [linkedin.com/in/hadimohammadi](https://www.linkedin.com/in/mohammadi-hadi)
+- Email: h.mohammadi@uu.nl
 
 ## 📈 GitHub Stats
 <!-- ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=mohammadi-hadi&show_icons=true&theme=radical) -->
@@ -48,6 +48,6 @@ Automatic detection system for AI-generated texts using NLP techniques.
 
 ---
 <!-- ⭐️ From [mohammadi-hadi](https://github.com/mohammadi-hadi)  -->
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://www.linkedin.com/in/hadimohammadi)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://www.linkedin.com/in/mohammadi-hadi)
 [![Portfolio](https://img.shields.io/badge/Portfolio-Visit-green)](https://mohammadi-hadi.github.io/)
-[![Email](https://img.shields.io/badge/Email-Contact-red)](mailto:your.email@example.com)
+[![Email](https://img.shields.io/badge/Email-Contact-red)](mailto:h.mohammadi@uu.nl)
