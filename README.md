@@ -34,6 +34,10 @@ Automatic detection system for AI-generated texts using NLP techniques.
 - LinkedIn: [linkedin.com/in/hadimohammadi](https://www.linkedin.com/in/hadimohammadi)
 - Email: your.email@example.com
 
+<br>
+<img alt="girl" src="https://raw.githubusercontent.com/mohammadi-hadi/mohammadi-hadi/master/assets/hardwork.gif" width="400" align="center"/>
+<br>
+
 ## 📈 GitHub Stats
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=mohammadi-hadi&show_icons=true&theme=radical)
 
