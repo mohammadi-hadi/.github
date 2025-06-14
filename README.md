@@ -35,7 +35,7 @@ Automatic detection system for AI-generated texts using NLP techniques.
 - Email: your.email@example.com
 
 <br>
-<img alt="hardwork" src="https://github.com/mohammadi-hadi/.github/blob/3cdbaab46980b359d836e83574d8f9bc7c53bb1c/assets/hardwork.gif" width="400" align="center"/>
+<img alt="hardwork" src="https://github.com/mohammadi-hadi/.github/blob/3cdbaab46980b359d836e83574d8f9bc7c53bb1c/assets/hardwork.gif" width="500" align="center"/>
 <br>
 
 ## 📈 GitHub Stats
