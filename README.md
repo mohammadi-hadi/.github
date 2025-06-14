@@ -41,7 +41,7 @@ Automatic detection system for AI-generated texts using NLP techniques.
 ## 📈 GitHub Stats
 <!-- ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=mohammadi-hadi&show_icons=true&theme=radical) -->
 <p align="center">
-<a href="https://github.com/tina-shahedi">
+<a href="https://github.com/mohammadi-hadi">
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=mohammadi-hadi&show_icons=true&theme=default&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=mohammadi-hadi&layout=compact&langs_count=8&theme=default"/>
 </a>
