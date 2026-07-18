@@ -1,11 +1,11 @@
 # Hadi Mohammadi
-## Data Scientist & ML Engineer | NLP Developer
+## Senior AI & Data Science Expert @ AcademicTransfer | PhD in Explainable NLP, Utrecht University
 <br>
 <img alt="hardwork" src="https://github.com/mohammadi-hadi/.github/blob/3cdbaab46980b359d836e83574d8f9bc7c53bb1c/assets/hardwork.gif" width="500" align="center"/>
 <br>
 
 ## 👨‍💻 About Me
-I am a passionate Data Scientist and Machine Learning Engineer with expertise in Natural Language Processing (NLP). My work focuses on developing innovative solutions using cutting-edge AI technologies.
+I am a Senior AI & Data Science Expert at AcademicTransfer with a PhD in Explainable NLP from Utrecht University. My work focuses on explainable NLP, large language models, and applied AI and data science.
 
 ## 🚀 Skills
 - **Programming Languages**: Python, R, SQL
@@ -29,9 +29,9 @@ Movie and music recommendation system powered by deep learning.
 Automatic detection system for AI-generated texts using NLP techniques.
 
 ## 📫 Get in Touch
+- Website: [mohammadi.cv](https://mohammadi.cv)
 - Portfolio: [mohammadi-hadi.github.io](https://mohammadi-hadi.github.io/)
-- LinkedIn: [linkedin.com/in/hadimohammadi](https://www.linkedin.com/in/mohammadi-hadi)
-- Email: h.mohammadi@uu.nl
+- LinkedIn: [linkedin.com/in/mohammadi-hadi](https://www.linkedin.com/in/mohammadi-hadi)
 
 ## 📈 GitHub Stats
 <!-- ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=mohammadi-hadi&show_icons=true&theme=radical) -->
@@ -50,4 +50,4 @@ Automatic detection system for AI-generated texts using NLP techniques.
 <!-- ⭐️ From [mohammadi-hadi](https://github.com/mohammadi-hadi)  -->
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://www.linkedin.com/in/mohammadi-hadi)
 [![Portfolio](https://img.shields.io/badge/Portfolio-Visit-green)](https://mohammadi-hadi.github.io/)
-[![Email](https://img.shields.io/badge/Email-Contact-red)](mailto:h.mohammadi@uu.nl)
+[![Website](https://img.shields.io/badge/Website-mohammadi.cv-red)](https://mohammadi.cv)
