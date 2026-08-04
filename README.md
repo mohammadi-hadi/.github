@@ -1,7 +1,7 @@
 # Hadi Mohammadi
 ## Senior AI & Data Science Expert @ AcademicTransfer | PhD in Explainable NLP, Utrecht University
 <br>
-<img alt="hardwork" src="https://github.com/mohammadi-hadi/.github/blob/3cdbaab46980b359d836e83574d8f9bc7c53bb1c/assets/hardwork.gif" width="500" align="center"/>
+<img alt="hardwork" src="assets/hardwork.gif" width="500" align="center"/>
 <br>
 
 ## 👨‍💻 About Me
@@ -34,7 +34,6 @@ Automatic detection system for AI-generated texts using NLP techniques.
 - LinkedIn: [linkedin.com/in/mohammadi-hadi](https://www.linkedin.com/in/mohammadi-hadi)
 
 ## 📈 GitHub Stats
-<!-- ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=mohammadi-hadi&show_icons=true&theme=radical) -->
 <p align="center">
 <a href="https://github.com/mohammadi-hadi">
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=mohammadi-hadi&show_icons=true&theme=default&include_all_commits=true&count_private=true"/>
