@@ -1,0 +1,8 @@
+# Default sponsor button for every repository under this account.
+#
+# One file, not one per repository: GitHub reads .github/FUNDING.yml from this special
+# repository and applies it wherever a repository does not define its own.
+#
+# The button only appears once the GitHub Sponsors listing is approved. Until then this
+# file is inert, which is why it can be committed ahead of the application.
+github: mohammadi-hadi
